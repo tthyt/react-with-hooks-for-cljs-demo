@@ -1,0 +1,10 @@
+
+/target
+/node_modules
+/yarn.lock
+/package-lock.json
+/*.log
+.shadow-cljs/
+
+.nrepl-port
+/.idea/
